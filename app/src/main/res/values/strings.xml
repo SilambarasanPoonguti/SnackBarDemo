@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">SnackBar Demo</string>
+  <string name="simple_snackbar">Simple SnackBar</string>
+  <string name="snackbar_examples">SnackBar Examples</string>
+  <string name="callback_snackbar">Callback SnackBar</string>
+  <string name="custom_snackbar">Custom SnackBar</string>
+</resources>
